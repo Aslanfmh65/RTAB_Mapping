@@ -1,2 +1,2 @@
-rtab_map:rtabmap_ros:teleop_twist_keyboard
+rtab_map:teleop_twist_keyboard
 -DCATKIN_DEVEL_PREFIX=/home/robond/Desktop/myrobot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robond/Desktop/myrobot/catkin_ws/install -G Unix Makefiles
