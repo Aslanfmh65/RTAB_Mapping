@@ -1,0 +1,8 @@
+prefix=/home/robond/Desktop/myrobot/catkin_ws/devel
+
+Name: RTAB-Map
+Description: Description of RTAB-Map
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Desktop/myrobot/catkin_ws/devel/lib 
+Requires: 

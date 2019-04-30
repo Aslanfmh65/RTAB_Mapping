@@ -1,0 +1,8 @@
+prefix=/home/robond/Desktop/myrobot/catkin_ws/install
+
+Name: chase_bot
+Description: Description of chase_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Desktop/myrobot/catkin_ws/install/lib 
+Requires: 
